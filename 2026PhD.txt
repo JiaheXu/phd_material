@@ -1,0 +1,90 @@
+xjh4438318846@gmail.com
+Xjh-19980327
+
+
+
+
+
+Duke https://applygp.duke.edu/apply/?sr=33aa3c73-f9be-405d-b460-a07a95256e0b Dec 15 est 
+NYU December 1. https://apply.engineering.nyu.edu/apply/
+
+
+
+
+
+
+#############################################################
+UCLA December 15th, 11:59 PM PT https://apply.grad.ucla.edu/account/login?r=https://apply.grad.ucla.edu/portal/landing&cookie=1
+
+
+purdue li4558@purdue.edu December 1 https://gradapply.purdue.edu/apply/
+
+berkely ME December 3rd, 11:59 PM PT https://gradapp.berkeley.edu/account/login?r=https%3a%2f%2fgradapp.berkeley.edu%2fapply%2f%3f_gl%3d1*1efzrmy*_gcl_au*MTI5MTIwNTI2NC4xNzU5NjMyOTQ3*_ga*MTc0MTYxNDQ0Ny4xNzU5NjMyOTQ1*_ga_VG745JH53Y*czE3NjM4MTczMTAkbzQkZzEkdDE3NjM4MTczMzQkajM2JGwwJGgw&cookie=1
+
+CMU https://www.ri.cmu.edu/education/academic-programs/doctoral-robotics-program/how-to-apply/  dec 10
+
+
+
+
+#############################################################
+Northwestern University Dec 1 est https://www.applyweb.com/cgi-bin/app?s=nugrad essay part
+UIUC Dec 15 est https://choose.illinois.edu/apply/  need tospecify who you want to work with
+UMICH December 15th, 11:59 PM ET  https://www.applyweb.com/forms/umgrad
+
+
+
+
+######################################
+Done:
+
+JHU Dec 15 est  https://applygrad.jhu.edu/apply/?sr=ddb4b07e-8d7c-4916-8c60-fe14c97bd5ae
+
+TTU https://www.depts.ttu.edu/gradschool/admissions/howtoapply.php
+
+ut AUSTIN https://students.gradschool.utexas.edu/apply/frm?1cdfbc98-9493-4a57-821e-708ab58a0656 dec 10
+
+Upenn    https://gradadmissions.seas.upenn.edu/apply/?sr=a5b4dff1-0bba-4e4a-a70b-8b80c7c5cd15   Dec 15 est 
+
+UNC cs  https://applynow.unc.edu/apply/frm?3b689bf0-45da-4b47-a272-9eed2953b95c Dec 15 est 
+
+Qingshan, Yuanlin Street, Meidijiayuan 1-4-602
+430080
+
+
+Tsung-Wei Ke
+twke@csie.ntu.edu.tw
+advisor
+Assistant Professor
+National Taiwan University 
+Department of Computer Science
+
+
+
+Katerina Fragkiadaki
+advisor
+JPMorgan Chase Associate Professor 
+Carnegie Mellon University
+
+katef@cs.cmu.edu
+
+
+
+
+
+
+
+
+
+
+
+
+I have extensive research and applied robotics experience across Carnegie Mellon University’s AirLab, CMU’s Robot Learning Group, and my startup PinocchioAI.
+
+At CMU AirLab (2022–2025) 
+I worked as a systems engineer focusing on real-time multi-sensor synchronization, calibration (stereo, depth, LiDAR, IMU, thermal, radar), and Jetson-based embedded deployment. I improved perception pipelines using VPI/TensorRT, optimized robot video streaming, and integrated iPhone/VisionPro sensors into ROS2. This work contributed directly to two robotics publications.
+
+At CMU Robot Learning Group (2024–2025) 
+I built a full 3D bimanual robot learning pipeline: high-frequency depth estimation, a 50Hz end-effector controller for Aloha, VLA model benchmarking (SPOT, iDP3, 3DDA, Pi0, AnyPlace), and large-scale dataset evaluation (RH20T, Open-X, BridgeData). I also constructed a new high-frequency dataset. This led to the 3DFA policy (ICRA 2026 submission) and the OC3D object-centric 3D diffusion framework.
+
+At PinocchioAI, as CTO (2025–present) 
+I lead the development of a deployed navigation robot, a WeChat mini-program app, and real-to-sim pipelines. I build agent-agnostic manipulation policies, integrate LLM-based guidance, and develop teleoperation via VisionPro hand tracking. I also implement multimodal data pipelines and user-robot interaction systems.
